@@ -1,0 +1,127 @@
+/* Mobile Screen*/
+@media screen and (max-width: 576px) {
+    .container{
+        width: 100%;
+    }
+    /* header section */
+    .header-section{
+       height: 730px;
+       padding: 25px;    
+    }
+    .header{
+        flex-direction: column;    
+    }
+    .links ul{
+        flex-direction: column;
+        padding: 10px;
+    }
+    .links ul li{
+        margin-top: 10px;
+    }
+    /* banner section */
+    .banner-section{
+        margin-top: 40px;
+    }
+    .banner h1{
+        font-size: 40px;
+    }
+    .banner{
+        width: 100%;
+    }
+    .banner-image img {
+        width: 100%;
+        margin-top: 110px;
+    }
+    .features-section{
+        flex-direction: column;   
+    }
+    .feature-left-content h1{
+        font-size: 30px;
+    }
+    .feature-right-content{
+        display: grid;
+        grid-template-columns: repeat(1,1fr); 
+    }
+    .feature-right-content img{
+        width: 100%;
+    }
+    .explore-btn{
+        display: none;
+    }
+    /* love and enjoy section */
+    .love-and-enjoy-section{
+        padding: 0px 50px;
+    }
+    .love-and-enjoy-container{
+        flex-direction: column;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .basic-info h1{
+        font-size: 30px;
+    }
+    .basic-info p{
+       max-width: 360px;
+       text-align: center;
+    }
+    .service{
+        width: 350px;
+        height: 150px;
+        margin: auto;
+    }
+    .love-and-enjoy-right-content{
+        text-align: center;
+        width: 100%;
+        margin: 10px 40px;
+    }
+    .love-and-enjoy-right-content img{
+        width:100%;
+    }
+    .experiance-info{
+        display: none;
+    }
+    /* some fact section */
+    .somefact-section{
+        padding: 20px 50px;
+        margin: auto;
+    }
+    .facts-title{
+        text-align: center;
+        /* padding: 30px; */
+    }
+    .facts-title h2{
+        font-size: 35px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .facts-title p{
+        width: 380px;
+    }
+    .facts-info-container{
+        flex-direction: column;
+        row-gap: 20px;
+        margin-left: 20px;
+    }
+    /* sonsor section */
+    .sponsor-section{
+        width: 100%;
+    }
+    .sponsor-title h2{
+        font-size: 35px;
+        text-align: center;   
+    }
+    .sponsor-title p{
+    width:380px;
+    }
+   .sponsor-company{
+    flex-direction: column;
+    row-gap: 30px;
+    text-align: center;
+   }
+   .footer-section{
+    width: 100%;
+   }
+   .footer-content{
+    font-size: 16px;
+   }
+}

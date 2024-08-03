@@ -1,121 +1,82 @@
 # Responsive-Websites-Designs
 
-1. [Convention center bootstrap](https://convention-center-design.netlify.app/)
+1. [Convention center bootstrap](https://musical-macaron-4ffc3c.netlify.app/)
 
+2. [G3-architects](https://zippy-kangaroo-e2979e.netlify.app/)
 
-2. [G3-architects](https://g3-architects-info.netlify.app/)
+3. [Influencer gear](https://rad-bublanina-4e6e04.netlify.app/)
 
+4. [Legal resource Bootstrap](https://astounding-malabi-a9d452.netlify.app/)
 
-3. [Influencer gear](https://influencer-gear-info.netlify.app/)
+5. [Penguin fashion tailwind](https://coruscating-sprinkles-a02af9.netlify.app/)
 
+6. [Tea House DaisyUI](https://lucent-cassata-95f5b6.netlify.app/)
 
-4. [Legal resource Bootstrap](https://legal-resource-info.netlify.app/)
-
-5. Tea house
-
-6. [New year new me](https://new-year-new-me-info.netlify.app/)
-
-7. [Panda commerce bootstrap](https://panda-commerce-bootstrap-info.netlify.app/)
-
-8. [Penguin fashion tailwind](https://penguin-fashion-tailwind-info.netlify.app/)
-
-9. [Bikers zone](https://bikers-zone-design.netlify.app/)
-
-10. [Leader board 2023](https://leader-board-2023.netlify.app/)
-
-11. [Leader board bootstrap](https://leaderboard-bootstrap-info.netlify.app/)
-
-12. [Tea House Tailwind]()
-
-13. [Tea House DaisyUI]()
-
-14. [Bikers Zone DaisyUI]()
+14. [Bikers Zone DaisyUI](https://deft-naiad-56078e.netlify.app/)
 
 
 
 # Freecodecamp Responsive Websites Designs
 
-1. [Cat Photo App](https://wonderful-tiramisu-f64d14.netlify.app/)
-
-More info [Here](./freecodecamp-responsive-websites/1.Learn-HTML-by-Building-a-Cat-Photo-App/cat-photo-app.md)
+1. [Cat Photo App](https://melodic-cuchufli-20889e.netlify.app/)
 
 
-2. [Cafe Menu](https://wonderful-tiramisu-f64d14.netlify.app/)
-
-More info [Here](./freecodecamp-responsive-websites/2.Learn-CSS-by-Building-a-Cafe-Menu/cafe-menu.md)
+2. [Cafe Menu](https://snazzy-gnome-5da4bb.netlify.app/)
 
 
-3. [Set of Colored Markers]()
+3. [Colored Markers](https://statuesque-sunflower-d30851.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/3.Learn-CSS-Colors-by-Building-a-Set-of-Colored-Markers/colored-markers.md)
 
-4. [Registration Form]()
+4. [Registration Form](https://wonderful-pasca-9ca9d5.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/4.Learn-HTML-Forms-by-Building-a-Registration-Form/registration-form.md)
 
-5. [Survey Form]()
+5. [Survey Form](https://idyllic-choux-3940ef.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/5.survey-form/survey-form.md)
 
-6. [Rothko Painting]()
+6. [Rothko Painting](https://famous-genie-6ca63b.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/6.rothko-painting/rothko-painting.md)
 
-7. [Photo Gallery]()
+7. [Photo Gallery](https://imaginative-monstera-bfb8e9.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/7.Photo-Gallery/photo-gallery.md)
 
-8. [Nutrition Label]()
+8. [Nutrition Label](https://sensational-taffy-3adf0c.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/8.Nutrition-Label/nutrition-label.md)
 
-9. [Building a Quiz]()
+9. [Building a Quiz](https://effulgent-bonbon-5f980a.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/9.Building-a-quiz/building-quiz.md)
 
-10. [Tribute Page]()
+10. [Tribute Page](https://fancy-puffpuff-40c2ea.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/10.Tribute-Page/tribute-page.md)
 
-11. [Balance Sheet]()
+11. [Balance Sheet](https://heroic-squirrel-877856.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/11.balance-sheet/balance-sheet.md)
 
-12. [Building a Piano]()
+12. [Building a Piano](https://gleaming-babka-d9ea5b.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/12.Learn-Responsive-Web-Design-by-Building-a-Piano/building-a-piano.md)
 
-13. [Technical Documentation Page]()
+13. [Technical Documentation Page](https://stalwart-chaja-2b5c20.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/13.technical-documentation-page/technical-documentation.md)
 
-14. [City Skyline]()
+14. [City Skyline](https://merry-baklava-b785dc.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/14.CSS-Variables-by-Building-a-City-Skyline/city-skyline.md)
 
-15. [Building a Magazine]()
+15. [Building a Magazine](https://delicate-cocada-9a5a3c.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/15.CSS-grid-by-building-a-magazine/magazine.md)
 
-16. [Product Landing Page]()
+16. [Product Landing Page](https://unique-meerkat-8d95f4.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/16.product-landing-page/landing-page.md)
 
-17. [A Ferris Wheel]()
+17. [A Ferris Wheel](https://cerulean-vacherin-52a58e.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/17.CSS-animation-by-building-a-Ferris-Wheel/ferris-wheel.md)
 
-18. [Building a Penguin]()
+18. [Building a Penguin](https://chic-medovik-db2feb.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/18.CSS-transforms-by-building-a-penguin/building-a-penguin.md)
 
-19. [Picasso Painting]()
+19. [Picasso Painting](https://spontaneous-palmier-c8de67.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/19.Learn-Intermediate-CSS-by-Building-a-Picasso-Painting/picasso-painting.md)
 
-20. [Personal Portfolio Website]()
+20. [Personal Portfolio Website](https://frolicking-blini-329b90.netlify.app/)
 
-More info [Here](./freecodecamp-responsive-websites/20.Personal-Portfolio-Website/portfolio.md)
 
 
 ## Freecodecamp Responsive web design certification

@@ -71,7 +71,7 @@
     </head>
 
     <body class="font-poppins">
-        <!-- -------- nabar --------- -->
+        <!-- -------- navbar --------- -->
         <!-- (md:container md:mx-auto) from tailwind css -->
         <header class="md:container md:mx-auto">
             <!-- --------- ----------------- nav bar (responsive (dropdown menu on small screen, center menu on large screen) from Daisy UI) ---------------- --------- -->
@@ -90,6 +90,8 @@
                                         stroke-linejoin="round" stroke-width="2"
                                         d="M4 6h16M4 12h8m-8 6h16" /></svg>
                             </div>
+
+                            <!-- nav options for large screen -->
                             <ul tabindex="0"
                                 class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 text-base">
                                 <!-- (text-base) from tailwind css  -->
@@ -99,11 +101,15 @@
                                 <li><a>Contact</a></li>
                             </ul>
                         </div>
+
+                        <!-- ------ (Biker Zone) logo ------- -->
                         <!-- (lg:text-4xl) from tailwind css  for large screen -->
                         <!-- (text-xl) for small screen -->
                         <a class="btn btn-ghost lg:text-4xl text-xl">Biker
                             Zone</a>
                     </div>
+
+                    <!-- nav options for small screen -->
                     <div class="navbar-center hidden lg:flex">
                         <ul class="menu menu-horizontal px-1">
                             <li><a>Home</a></li>
@@ -112,7 +118,9 @@
                             <li><a>Contact</a></li>
                         </ul>
                     </div>
-                    <div class>
+
+                    <!-- login button -->
+                    <div>
                         <a
                             class="btn btn-primary bg-bike-primary text-white"
                             id="login-btn">Login</a>
@@ -161,14 +169,15 @@
                                 src="./images/slider/bike1.png"
                                 class="w-[400px] flex-1" />
                         </div>
-
                     </div>
+
                     <div
                         class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide4" class="btn btn-circle">❮</a>
                         <a href="#slide2" class="btn btn-circle">❯</a>
                     </div>
                 </div>
+
                 <!-- slide 2 -->
                 <div id="slide2" class="carousel-item relative w-full">
                     <div
@@ -194,8 +203,8 @@
                                 src="./images/slider/bike2.png"
                                 class="w-[400px] flex-1" />
                         </div>
-
                     </div>
+
                     <div
                         class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide1" class="btn btn-circle">❮</a>
@@ -228,8 +237,8 @@
                                 src="./images/slider/bike3.png"
                                 class="w-[400px] flex-1" />
                         </div>
-
                     </div>
+
                     <div
                         class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide2" class="btn btn-circle">❮</a>
@@ -262,8 +271,8 @@
                                 src="./images/slider/bike4.png"
                                 class="w-[400px] flex-1" />
                         </div>
-
                     </div>
+
                     <div
                         class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide3" class="btn btn-circle">❮</a>
@@ -303,8 +312,9 @@
                                 quibusdam
                                 ab consectetur quae, rem commodi vero enim
                                 cupiditate sed dolor laborum! Fugiat?</p>
-                            <div class="card-actions justify-start">
 
+                            <!-- button inside body -->
+                            <div class="card-actions justify-start">
                                 <!-- (bg-bike-primary) from custom tailwind -->
                                 <!-- (text-white uppercase) from tailwind css -->
                                 <button
@@ -327,7 +337,7 @@
                                 ab consectetur quae, rem commodi vero enim
                                 cupiditate sed dolor laborum! Fugiat?</p>
                             <div class="card-actions justify-start">
-
+                                <!-- button inside body -->
                                 <!-- (bg-bike-primary) from custom tailwind -->
                                 <!-- (text-white uppercase) from tailwind css -->
                                 <button
@@ -350,7 +360,7 @@
                                 ab consectetur quae, rem commodi vero enim
                                 cupiditate sed dolor laborum! Fugiat?</p>
                             <div class="card-actions justify-start">
-
+                                <!-- button inside body -->
                                 <!-- (bg-bike-primary) from custom tailwind -->
                                 <!-- (text-white uppercase) from tailwind css -->
                                 <button
@@ -375,7 +385,6 @@
                                 src="./images/others/user-1.png"
                                 alt="clint" /></figure>
                         <div class="card-body">
-
                             <p>Lorem ipsum dolor sit amet consectetur
                                 adipisicing elit. Veritatis, nobis? Odit
                                 quibusdam minima delectus similique!</p>
@@ -396,13 +405,11 @@
                             </div>
 
                             <div class="text-center space-y-4">
-
                                 <!-- (text-info) from daisy ui color -->
                                 <h4
                                     class="text-sm font-semibold text-info mt-4">Regina
                                     Miles</h4>
                                 <p>Banker</p>
-
                             </div>
                         </div>
                     </div>
@@ -413,7 +420,6 @@
                                 src="./images/others/user-2.png"
                                 alt="clint" /></figure>
                         <div class="card-body">
-
                             <p>Lorem ipsum dolor sit amet consectetur
                                 adipisicing elit. Veritatis, nobis? Odit
                                 quibusdam minima delectus similique!</p>
@@ -434,13 +440,11 @@
                             </div>
 
                             <div class="text-center space-y-4">
-
                                 <!-- (text-info) from daisy ui color -->
                                 <h4
                                     class="text-sm font-semibold text-info mt-4">Regina
                                     Miles</h4>
                                 <p>Banker</p>
-
                             </div>
                         </div>
                     </div>
@@ -451,7 +455,6 @@
                                 src="./images/others/user-3.png"
                                 alt="clint" /></figure>
                         <div class="card-body">
-
                             <p>Lorem ipsum dolor sit amet consectetur
                                 adipisicing elit. Veritatis, nobis? Odit
                                 quibusdam minima delectus similique!</p>
@@ -472,18 +475,15 @@
                             </div>
 
                             <div class="text-center space-y-4">
-
                                 <!-- (text-info) from daisy ui color -->
                                 <h4
                                     class="text-sm font-semibold text-info mt-4">Regina
                                     Miles</h4>
                                 <p>Banker</p>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- -------------- Frequently Asked question ------------------- -->
@@ -494,7 +494,7 @@
 
                 <!-- (bg-base-200 + min-h-screen) remove kore dibo shob jayga theke -->
                 <!-- (Hero with figure) from Daisy UI -->
-                <div class="hero ">
+                <div class="hero">
                     <div class="hero-content flex-col lg:gap-24 lg:flex-row">
                         <img src="./images/others/faq.png"
                             class="w-1/2 lg:max-w-sm rounded-lg shadow-2xl" />
@@ -577,11 +577,9 @@
                     </div>
                 </div>
             </section>
-
         </main>
 
         <!-- ------------------ footer (Footer with logo and social icons) from Daisy UI ----------------------- -->
-
         <footer class="footer p-10 bg-neutral text-neutral-content">
             <aside>
                 <p>ACME Industries Ltd.<br>Providing reliable tech since
